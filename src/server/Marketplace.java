@@ -27,7 +27,7 @@ import java.util.Map;
 
 /**
  *
- * @author fer
+ * @author Fernando Garcia Sanjuan, <fgs@kth.se>, <fdosanjuan@gmail.com>
  */
 public class Marketplace
    extends UnicastRemoteObject

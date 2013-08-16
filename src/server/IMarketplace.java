@@ -11,7 +11,7 @@ import java.rmi.RemoteException;
 
 /**
  *
- * @author alberto
+ * @author Alberto Lorente Leal <albll@kth.se>, <a.lorenteleal@gmail.com>
  */
 public interface IMarketplace
    extends Remote

@@ -16,7 +16,7 @@ import javax.swing.DefaultListModel;
 
 /**
  *
- * @author alberto
+ * @author Alberto Lorente Leal <albll@kth.se>, <a.lorenteleal@gmail.com>
  */
 public class MarketClient extends javax.swing.JFrame {
     private MarketCommunicator market;

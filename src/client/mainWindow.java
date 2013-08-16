@@ -12,7 +12,7 @@ package client;
 
 /**
  *
- * @author alberto
+ * @author Alberto Lorente Leal <albll@kth.se>, <a.lorenteleal@gmail.com>
  */
 public class mainWindow extends javax.swing.JFrame {
 

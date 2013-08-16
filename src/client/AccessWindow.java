@@ -17,7 +17,7 @@ import server.IMarketplace;
 
 /**
  *
- * @author alberto
+ * @author Alberto Lorente Leal <albll@kth.se>, <a.lorenteleal@gmail.com>
  */
 public class AccessWindow extends javax.swing.JFrame {
     

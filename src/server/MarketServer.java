@@ -10,7 +10,7 @@ import java.rmi.RemoteException;
 
 /**
  *
- * @author fer
+ * @author Fernando Garcia Sanjuan, <fgs@kth.se>, <fdosanjuan@gmail.com>
  */
 public class MarketServer
 {
